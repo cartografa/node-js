@@ -1,0 +1,16 @@
+{
+  "name": "ejemplo-express",
+  "version": "0.0.1",
+  "description": "Proyecto de servidor basado en Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "CSM",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
